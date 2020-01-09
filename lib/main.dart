@@ -71,6 +71,7 @@ class TugasKeTiga extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       home: FirstPage(),
     );
   }
@@ -156,6 +157,7 @@ class HalamanDetail extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Halaman Detail',
+      debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(
           title: Text('Halaman Detail'),

@@ -14,6 +14,7 @@ Tips tambahan,
 - Kamu bisa gunakan widget InkWell untuk membungkus item (Card/Image/semacamnya) agar item dapat menerima fungsi sentuhan (onTap, onLongPress, onDoubleTap, dll).
 
 ### Screenshot
+![](docs/ss1.png) ![](docs/ss2.png)
 
 ### Built With
 - [Flutter](https://flutter.dev)
